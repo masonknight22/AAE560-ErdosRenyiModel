@@ -1,4 +1,4 @@
 # AAE560-ErdösRényiModel
-Erdös-Rényi random network model for machine learning and network theory.
+Erdös-Rényi random model that generates symmetric networks, demonstrates for machine learning and network theory.
 ![](network.png)
-![](graphs.png)
+![](graph.png)
